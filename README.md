@@ -1,20 +1,22 @@
+<h1 align="center">Hello 👋, I'm Hans</h1>
+<h3 align="center">I am a student from Germany and enjoy coding</h3>
 
-<h1 align="center">Hi 👋, I'm Hans</h1>
-<h3 align="center">I am a student from Germany and like coding</h3>
-<h3> ⚙ &nbsp;Tech Stack</h3>
-[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,discord,linux,github,stackoverflow,vscode,eclipse,raspberrypi,blender)](https://mosemann.de)
+---
 
-<!--
-**hansiCode/hansiCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚙ &nbsp;Tech Stack
 
-Here are some ideas to get you started:
+**Languages**  
+![My Skills](https://skillicons.dev/icons?i=java,python,html,css,postgres,mysql)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Development Tools**  
+![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,git,github,githubactions,gitlab)
+
+
+**Tools**  
+![My Skills](https://skillicons.dev/icons?i=linux,discord,stackoverflow,md,raspberrypi,blender)
+
+---
+
+
+
+
