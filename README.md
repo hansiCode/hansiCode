@@ -1,4 +1,8 @@
-## Hi there 👋
+
+<h1 align="center">Hi 👋, I'm Hans</h1>
+<h3 align="center">I am a student from Germany and like coding</h3>
+<h3> ⚙ &nbsp;Tech Stack</h3>
+[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,discord,linux,github,stackoverflow,vscode,eclipse,raspberrypi,blender)](https://mosemann.de)
 
 <!--
 **hansiCode/hansiCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
